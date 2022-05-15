@@ -1,0 +1,8 @@
+/*Hello
+World
+*/
+int main (){
+int a=10;
+double b = 10.00;
+return 0;
+}
